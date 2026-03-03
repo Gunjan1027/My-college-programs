@@ -1,0 +1,42 @@
+*{
+    padding-left:0;
+    margin: 0;
+    color: #ffffff;
+    
+}
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+    padding-top: 25px;
+    text-align: center;
+}   
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
+footer{
+    color: rgb(255, 255, 255);
+    background-color: #0f1111;
+    text-align: center;
+    font-size: 15px;
+}
+
+#content{
+    height: 720px;
+}
+.contentbox{
+    height: 250px;
+    width: 250px;
+    display: inline-block;
+    padding-left: 50px;
+    margin-right:50px;
+
+    border:5px double #0f1111;
+}

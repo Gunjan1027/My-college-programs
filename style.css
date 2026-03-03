@@ -1,0 +1,25 @@
+
+p{
+    text-align:justify;
+    background-color:rgb;
+}
+#paragraph1{
+    color: rgb(252, 0, 218);
+}
+#paragraph2{
+    color: rgb(165, 0, 17);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-color:rgb(0, 0, 0)
+    ;
+}
+#heading1{
+    color: rgb(182, 1, 67);
+    background-color: #AF929D;
+    height: 45px;
+   
+    text-align:center;
+    text-decoration: blue dotted underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
